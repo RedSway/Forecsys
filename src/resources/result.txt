@@ -1,0 +1,8 @@
+country sum(count) count_uniq(user_id)
+Ukraine 3 1
+Russia 3 2
+-------------
+country sum(count) count_uniq(user_id)
+Ukraine 3 1
+Russia 3 2
+-------------

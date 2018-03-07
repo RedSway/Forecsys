@@ -1,0 +1,11 @@
+user_id;count;country
+11231;1;Russia
+11232;2;Russia
+
+11232 2;Russia
+
+
+11232.2;2;Russia
+
+11232;2;Ukraine
+11232;1;Ukraine
