@@ -49,7 +49,7 @@ public class Main {
 
         writeFile(stringBuilder.toString(), false);
 
-        ////////////////////////////////////////////
+        /////////////////////////////////////////////
 
         reader = new BufferedReader(new InputStreamReader(new FileInputStream("src/resources/result.txt")));
         List<String[]> listResult = new ArrayList<>();
